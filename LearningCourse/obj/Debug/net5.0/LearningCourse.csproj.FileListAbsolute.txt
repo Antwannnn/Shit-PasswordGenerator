@@ -1,0 +1,16 @@
+E:\VSProjects\LearningCourse\LearningCourse\obj\Debug\net5.0\LearningCourse.csproj.AssemblyReference.cache
+E:\VSProjects\LearningCourse\LearningCourse\obj\Debug\net5.0\LearningCourse.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSProjects\LearningCourse\LearningCourse\obj\Debug\net5.0\LearningCourse.AssemblyInfoInputs.cache
+E:\VSProjects\LearningCourse\LearningCourse\obj\Debug\net5.0\LearningCourse.AssemblyInfo.cs
+E:\VSProjects\LearningCourse\LearningCourse\obj\Debug\net5.0\LearningCourse.csproj.CoreCompileInputs.cache
+E:\VSProjects\LearningCourse\LearningCourse\bin\Debug\net5.0\LearningCourse.exe
+E:\VSProjects\LearningCourse\LearningCourse\bin\Debug\net5.0\LearningCourse.deps.json
+E:\VSProjects\LearningCourse\LearningCourse\bin\Debug\net5.0\LearningCourse.runtimeconfig.json
+E:\VSProjects\LearningCourse\LearningCourse\bin\Debug\net5.0\LearningCourse.runtimeconfig.dev.json
+E:\VSProjects\LearningCourse\LearningCourse\bin\Debug\net5.0\LearningCourse.dll
+E:\VSProjects\LearningCourse\LearningCourse\bin\Debug\net5.0\LearningCourse.pdb
+E:\VSProjects\LearningCourse\LearningCourse\obj\Debug\net5.0\LearningCourse.dll
+E:\VSProjects\LearningCourse\LearningCourse\obj\Debug\net5.0\refint\LearningCourse.dll
+E:\VSProjects\LearningCourse\LearningCourse\obj\Debug\net5.0\LearningCourse.pdb
+E:\VSProjects\LearningCourse\LearningCourse\obj\Debug\net5.0\LearningCourse.genruntimeconfig.cache
+E:\VSProjects\LearningCourse\LearningCourse\obj\Debug\net5.0\ref\LearningCourse.dll
